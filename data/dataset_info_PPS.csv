@@ -1,4 +1,4 @@
-scan_id,bone,side,patient_id,exam,vgs,x_shape,y_shape,z_shape,max_value,min_val,mean_val,med_val,std_val,n_class_0,n_class_1,n_class_2,prop_class_0,prop_class_1,prop_class_2,image_path
+scan_id,bone,side,patient_id,exam,vgs,x_shape,y_shape,z_shape,max_val,min_val,mean_val,med_val,std_val,n_class_0,n_class_1,n_class_2,prop_class_0,prop_class_1,prop_class_2,image_path
 D0004037,Radius,R,A01-0253,Ex01,VGS3,322,459,168,5824,-2215,348,99,866,14749962,7346617,2733485,0.5940364068332648,0.295875878531767,0.1100877146349683,/data/trainers/PPS_NPZs/Radius/A01-0253/Ex01/D0004037_R_VGS3.npz
 D0004036,Radius,L,A01-0253,Ex01,VGS1,355,452,168,4902,-1643,356,97,860,17604824,6584447,2768008,0.6530638105921666,0.2442548728951882,0.1026812794169144,/data/trainers/PPS_NPZs/Radius/A01-0253/Ex01/D0004036_L_VGS1.npz
 D0004385,Radius,R,A01-0253,Ex02,VGS1,312,458,168,5437,-2294,379,104,900,13727102,7504448,2774978,0.5718070518152396,0.3126003060500877,0.1155926421346727,/data/trainers/PPS_NPZs/Radius/A01-0253/Ex02/D0004385_R_VGS1.npz
